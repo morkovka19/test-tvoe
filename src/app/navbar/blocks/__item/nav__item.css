@@ -1,0 +1,16 @@
+.nav__item{
+    border-radius: 12px;
+    display: flex;
+    width: 264px;
+    padding: 12px 20px;
+    align-items: center;
+    gap: 12px;
+    border-radius: 12px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav__item_active{
+    background: #262626;
+    color: white;
+}

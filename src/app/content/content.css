@@ -1,0 +1,11 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    width: calc(1104/1404*100%);
+}
+
+.content__block{
+    display: flex;
+    margin: 0;
+    padding: 0
+}

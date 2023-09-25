@@ -1,0 +1,15 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(./blocks/lenta.css);
+@import url(./blocks/__img/lenta__img.css);
+@import url(./blocks/__item-block/lenta__item-block.css);
+@import url(./blocks/__item-title/lenta__item-title.css);
+@import url(./blocks/__item/lenta__item.css);
+@import url(./blocks/__list/lenta__list.css);
+@import url(./blocks/__section/lenta__section.css);
+@import url(./blocks/__time/lenta__time.css);
+@import url(./blocks/__title/lenta__title.css);
+@import url(./blocks/__item-info/lenta__item-info.css);
+@import url(./blocks/__text/lenta__text.css);
+@import url(./blocks/__marquee/lenta__marquee.css);
+@import url(./blocks/__block-menquee/lenta__block-menquee.css);

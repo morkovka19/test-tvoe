@@ -1,0 +1,11 @@
+.read__emogi-item{
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    color: #474747;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

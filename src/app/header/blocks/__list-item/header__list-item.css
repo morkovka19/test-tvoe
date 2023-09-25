@@ -1,0 +1,10 @@
+.header__list-item{
+    border-radius: 40px;
+    background: #F2F2F2;
+    display: flex;
+    height: 36px;
+    padding: 12px;
+    align-items: center;
+    gap: 4px;
+    box-sizing: border-box;
+}

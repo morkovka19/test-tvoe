@@ -1,0 +1,15 @@
+.lenta{
+    border-radius: 12px;
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+    display: flex;
+    width: calc(816/1092*100%);
+    padding-top: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    margin-right: 0;
+    max-height: 372px;
+    box-sizing: border-box;;
+}

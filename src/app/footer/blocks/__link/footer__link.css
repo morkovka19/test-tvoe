@@ -1,0 +1,14 @@
+.footer__link{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    border: none;
+    align-items: center;
+    display: flex;
+    
+
+}

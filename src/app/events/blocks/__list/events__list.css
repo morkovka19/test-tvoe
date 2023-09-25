@@ -1,0 +1,11 @@
+.events__list{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 16px;
+    list-style-type: none;
+    gap: 12px;
+    width: 100%;
+}

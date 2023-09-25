@@ -1,0 +1,7 @@
+.header__block-buttons{
+    margin: 0;
+    padding: 0;
+    margin-left: calc(646/1368*100%);
+    display: flex;
+    gap: 12px;
+}

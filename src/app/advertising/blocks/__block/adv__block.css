@@ -1,0 +1,15 @@
+.adv__block{
+    border-radius: 12px;
+    background: rgba(19, 19, 19, 0.42);
+    color: #000;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    min-height: 274px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}

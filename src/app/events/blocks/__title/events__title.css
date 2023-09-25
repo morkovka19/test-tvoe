@@ -1,0 +1,13 @@
+.events__title{
+    color: #262626;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    margin-left: 32px;
+}

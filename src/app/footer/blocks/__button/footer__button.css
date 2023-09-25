@@ -1,0 +1,21 @@
+.footer__button{
+    display: inline-flex;
+    height: 36px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FF6B00;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 184px;
+    margin-left: 97px;
+    margin-top: 36px
+
+}

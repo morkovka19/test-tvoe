@@ -1,0 +1,12 @@
+.adv{
+    width: calc(294/1092*100%);
+    padding: 12px;
+    box-sizing: border-box;
+    margin: 0;
+    margin-left: 12px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    background: #FFF;
+    max-height: 372px;
+}

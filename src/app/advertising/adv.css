@@ -1,0 +1,7 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(./blocks/adv.css);
+@import url(./blocks/__block/adv__block.css);
+@import url(./blocks/__link/adv__link.css);
+@import url(./blocks/__text/adv__text.css);
+@import url(./blocks/__span/adv__span.css);

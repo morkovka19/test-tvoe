@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0 auto;
+    min-height: calc(100vh - 228px);
+    padding-top: 24px;
+    gap: 12px
+}
